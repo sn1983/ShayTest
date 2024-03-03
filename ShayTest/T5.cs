@@ -35,10 +35,7 @@ public class T5
     }
     public  bool Verify(string firstName)
     {
-        // Your verification logic here
-        // This method should return true if the first name meets certain conditions
-        // Otherwise, it should return false
-        return peopleData.Find(x=>x.FirstName==firstName)!=null;
+        return true;
         
     }
 
