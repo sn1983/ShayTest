@@ -20,5 +20,10 @@ namespace ShayTest
             FirstName = f_name;
             LastName = l_name;
         }
+
+        public override string ToString()
+        {
+            return $"{FirstName}, {LastName}\n"; 
+        }
     }
 }

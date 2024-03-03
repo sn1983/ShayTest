@@ -6,12 +6,24 @@ public class T5
 
     List<Person> verifiedPeople = new List<Person>();
     List<Person> peopleData = new List<Person>();
-    public T5(List<Person> _peopleData)
+    public T5()
     {
-        peopleData = _peopleData;
+        peopleData = new List<Person>();
+        peopleData.Add(new Person(5, "Maor", "Cohen"));
+        peopleData.Add(new Person(5, "Maor", "Levi"));
+        peopleData.Add(new Person(5, "Maor", "XX"));
+        peopleData.Add(new Person(5, "Maor", "YY"));
+        peopleData.Add(new Person(5, "Maor", "TT"));
+        peopleData.Add(new Person(5, "Sharon", "RR"));
+        peopleData.Add(new Person(5, "ShiShi", "UU"));
+        peopleData.Add(new Person(5, "Shay", "NN"));
+        peopleData.Add(new Person(5, "Noa", "UU"));
+        peopleData.Add(new Person(5, "Lina", "ff"));
+
+       
     }
 
-    public  List<Person> FindFive(List<Person> peopleData)
+    public  List<Person> FindFive()
     {
         List<Person> verifiedPeople = new List<Person>();
         object lockObj = new object();
@@ -35,6 +47,7 @@ public class T5
     }
     public  bool Verify(string firstName)
     {
+        //not implemented for now this will allways be true somehow
         return true;
         
     }
