@@ -1,0 +1,14 @@
+C:\Users\shayn\source\repos\ShayTest\bin\Debug\net8.0\ShayTest.exe
+C:\Users\shayn\source\repos\ShayTest\bin\Debug\net8.0\ShayTest.deps.json
+C:\Users\shayn\source\repos\ShayTest\bin\Debug\net8.0\ShayTest.runtimeconfig.json
+C:\Users\shayn\source\repos\ShayTest\bin\Debug\net8.0\ShayTest.dll
+C:\Users\shayn\source\repos\ShayTest\bin\Debug\net8.0\ShayTest.pdb
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.AssemblyInfoInputs.cache
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.AssemblyInfo.cs
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.csproj.CoreCompileInputs.cache
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.dll
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\refint\ShayTest.dll
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.pdb
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ShayTest.genruntimeconfig.cache
+C:\Users\shayn\source\repos\ShayTest\obj\Debug\net8.0\ref\ShayTest.dll
