@@ -17,10 +17,7 @@ namespace ShayTest
             StringBuilder stringBuilder = new StringBuilder();
             if (keyMap.Count > 0)
             {
-                //foreach (var item in keyMap)
-                //{
-                //    stringBuilder.Append($"[{item}]:{item.Value}\n");
-                //}
+                
 
                 for (int i = 0; i < keyMap.Count; i++)
                 {
@@ -50,7 +47,7 @@ namespace ShayTest
                 Random rand = new Random();
                 Node node = new Node (i + 1, rand.Next());
                  keyMap.Add(i+1, node);
-               // keyMap[i].Value = rand.Next();
+              
             }
 
 
