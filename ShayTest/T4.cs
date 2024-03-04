@@ -10,50 +10,7 @@ namespace ShayTest
     public class T4
     {
         bool SetAllFlag = false;
-        //    private int[] keyMap {get;set;} = new  int[30] ;
-
-        //    public T4()
-        //    {
-        //        //adding dummy data to dictionary
-
-        //        for (int i = 0; i < 30; i++)
-        //        {
-        //            Random rand = new Random();
-        //            // keyMap.Add(i+1, rand.Next());
-        //            keyMap[i] = rand.Next();
-        //        }
-
-        //    }
-
-        //    public int Get(int key)
-        //    {
-        //        if (keyMap.Length <=key)
-        //        {
-        //            return keyMap[key];
-        //        }
-        //        return int.MaxValue;//means value was not found
-        //    }
-
-        //    public void Set(int key, int value)
-        //    {
-        //        if (keyMap.Length <= key)
-        //        {
-        //            keyMap[key] = value;
-        //        }
-        //        else
-        //        {
-
-        //            keyMap[key] = value;
-
-        //        }
-        //    }
-
-        //    public void SetAll(int value)
-        //    {
-        //        Array array =  Array.Empty(value);
-        //        keyMap = { [0... keyMap.Length] = value};
-
-        //    }
+       
         public override string ToString()
         {
 
