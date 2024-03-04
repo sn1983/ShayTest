@@ -1,2 +1,4 @@
 # ShayTest for AuroraView‎
-in order to run each test uncomment the part that need to be tested
+There are 2 option to Run tests:
+1. from Program.cs uncomment each part separately.
+2. Run unit test from TestRunnerForShayTest project. unit test code in file: 'UnitTest1.cs'
